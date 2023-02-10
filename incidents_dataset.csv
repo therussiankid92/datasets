@@ -1,4 +1,4 @@
-Incident ID, Date, Time, Component, Description, Severity, Resolution
+Incident ID,Date,Time,Component,Description,Severity,Resolution
 1, 01/01/2023, 10:00 AM, Login System, Failed login attempts, Low, Fixed by resetting passwords
 2, 01/02/2023, 11:00 AM, Payment System, Payment processing error, Medium, Fixed by updating payment processing code
 3, 01/03/2023, 12:00 PM, Inventory System, Incorrect product quantity, Medium, Fixed by updating product quantity data
