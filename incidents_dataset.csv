@@ -1,0 +1,51 @@
+Incident ID, Date, Time, Component, Description, Severity, Resolution
+1, 01/01/2023, 10:00 AM, Login System, Failed login attempts, Low, Fixed by resetting passwords
+2, 01/02/2023, 11:00 AM, Payment System, Payment processing error, Medium, Fixed by updating payment processing code
+3, 01/03/2023, 12:00 PM, Inventory System, Incorrect product quantity, Medium, Fixed by updating product quantity data
+4, 01/04/2023, 1:00 PM, Search System, Search results not displaying correctly, Low, Fixed by updating search algorithm
+5, 01/05/2023, 2:00 PM, User Profile, User profile data not saving correctly, Low, Fixed by updating data saving logic
+6, 01/06/2023, 3:00 PM, Checkout System, Order not processing correctly, High, Fixed by updating checkout code
+7, 01/07/2023, 4:00 PM, Shipping System, Shipping calculation error, Medium, Fixed by updating shipping calculation logic
+8, 01/08/2023, 5:00 PM, Product Detail, Product detail not displaying correctly, Low, Fixed by updating product detail code
+9, 01/09/2023, 6:00 PM, Order History, Order history not displaying correctly, Low, Fixed by updating order history code
+10, 01/10/2023, 7:00 PM, Newsletter, Newsletter not sending correctly, Low, Fixed by updating newsletter code
+11, 01/11/2023, 8:00 PM, Wishlist, Wishlist not saving correctly, Low, Fixed by updating wishlist code
+12, 01/12/2023, 9:00 PM, Blog, Blog post not displaying correctly, Low, Fixed by updating blog code
+13, 01/13/2023, 10:00 PM, Contact Form, Contact form not submitting correctly, Low, Fixed by updating contact form code
+14, 01/14/2023, 11:00 PM, FAQ, FAQ not displaying correctly, Low, Fixed by updating FAQ code
+15, 01/15/2023, 12:00 AM, About Us, About us page not displaying correctly, Low, Fixed by updating About Us code
+16, 01/16/2023, 1:00 AM, Privacy Policy, Privacy policy not displaying correctly, Low, Fixed by updating privacy policy code
+17, 01/17/2023, 2:00 AM, Terms of Service, Terms of service not displaying correctly, Low, Fixed by updating terms of service code
+18, 01/18/2023, 3:00 AM, Sitemap, Sitemap not displaying correctly, Low, Fixed by updating sitemap code
+19, 01/19/2023, 4:00 AM, 404 Page, 404 page not displaying correctly, Low, Fixed by updating 404 page code
+20, 01/20/2023, 5:00 AM, 500 Page, 500 page not displaying correctly, Low, Fixed by updating 500 page code
+21, 01/21/2023, 6:00 AM, Login System, Slow login times, Low, Fixed by updating login code
+22, 01/22/2023, 7:00 AM, Payment System, Payment processing time slow, Low, Fixed by updating payment processing code
+23, 01/23/2023, 8:00 AM, Inventory System, Slow product search times, Low, Fixed by updating product search code
+24, 01/24/2023, 9:00 AM, Search System, Slow search results, Low, Fixed by updating search algorithm
+25, 01/25/2023, 10:00 AM, User Profile, Slow user profile updates, Low, Fixed by updating user profile code
+26, 01/26/2023, 11:00 AM, Checkout System, Slow checkout times, Low, Fixed by updating checkout code
+27, 01/27/2023, 12:00 PM, Shipping System, Slow shipping calculations, Low, Fixed by updating shipping calculation logic
+28, 01/28/2023, 1:00 PM, Product Detail, Slow product detail page load times, Low, Fixed by updating product detail code
+29, 01/29/2023, 2:00 PM, Order History, Slow order history updates, Low, Fixed by updating order history code
+30, 01/30/2023, 3:00 PM, Newsletter, Slow newsletter send times, Low, Fixed by updating newsletter code
+31, 01/31/2023, 4:00 PM, Wishlist, Slow wishlist updates, Low, Fixed by updating wishlist code
+32, 02/01/2023, 5:00 PM, Blog, Slow blog page load times, Low, Fixed by updating blog code
+33, 02/02/2023, 6:00 PM, Contact Form, Slow contact form submissions, Low, Fixed by updating contact form code
+34, 02/03/2023, 7:00 PM, FAQ, Slow FAQ page load times, Low, Fixed by updating FAQ code
+35, 02/04/2023, 8:00 PM, About Us, Slow About Us page load times, Low, Fixed by updating About Us code
+36, 02/05/2023, 9:00 PM, Privacy Policy, Slow Privacy Policy page load times, Low, Fixed by updating privacy policy code
+37, 02/06/2023, 10:00 PM, Terms of Service, Slow Terms of Service page load times, Low, Fixed by updating terms of service code
+38, 02/07/2023, 11:00 PM, Sitemap, Slow sitemap page load times, Low, Fixed by updating sitemap code
+39, 02/08/2023, 12:00 AM, 404 Page, Slow 404 page load times, Low, Fixed by updating 404 page code
+40, 02/09/2023, 1:00 AM, 500 Page, Slow 500 page load times, Low, Fixed by updating 500 page code
+41, 02/10/2023, 2:00 AM, Login System, Login system down, High, Fixed by restarting login system
+42, 02/11/2023, 3:00 AM, Payment System, Payment processing down, High, Fixed by restarting payment processing system
+43, 02/12/2023, 4:00 AM, Inventory System, Inventory system down, High, Fixed by restarting inventory system
+44, 02/13/2023, 5:00 AM, Search System, Search system down, High, Fixed by restarting search system
+45, 02/14/2023, 6:00 AM, User Profile, User profile system down, High, Fixed by restarting user profile system
+46, 02/15/2023, 7:00 AM, Checkout System, Checkout system down, High, Fixed by restarting checkout system
+47, 02/16/2023, 8:00 AM, Shipping System, Shipping system down, High, Fixed by restarting shipping system
+48, 02/17/2023, 9:00 AM, Product Detail, Product detail system down, High,
+49, 02/18/2023, 10:00 AM, Order History, Order history system down, High, Fixed by restarting order history system
+50, 02/19/2023, 11:00 AM, Newsletter, Newsletter system down, High, Fixed by restarting newsletter system
